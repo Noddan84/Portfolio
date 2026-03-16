@@ -7,14 +7,14 @@ Välkommen till min portfolio! Här hittar du mitt CV samt exempel på publika p
 ## 📄 Mitt CV
 Se mitt CV med utbildning, arbetslivserfarenhet och övrig kompetens:
 
-[Se CV](CV/kimnordinCV.md)
+[Se CV](CV/kimnordinCV.html)
 
 ---
 
 ## 💻 Publika projekt
 Här hittar du exempel på projekt jag har gått publika med, inklusive beskrivningar och länkar:
 
-[Se projekt](Projects/README.md)
+[Se projekt](Projects/projects.md)
 
 ---
 
