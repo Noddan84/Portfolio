@@ -19,8 +19,6 @@ Här hittar du exempel på projekt jag har gått publika med, inklusive beskrivn
 ---
 
 ## 🖼 Bilder
-Alla bilder som används i CV och projekt finns i respektive mapp `CV/images/` och `Projects/images/`.  
-Exempel på hur du kan visa en bild i README:
 
 ![Exempelbild](CV/images/cellokim3.jpg)
 
