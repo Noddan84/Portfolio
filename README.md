@@ -7,7 +7,7 @@ Välkommen till min portfolio! Här hittar du mitt CV samt exempel på publika p
 ## 📄 Mitt CV
 Se mitt CV med utbildning, arbetslivserfarenhet och övrig kompetens:
 
-[Se CV](CV/kimnordinCV.html)
+[Se CV](CV/index.html)
 
 ---
 
