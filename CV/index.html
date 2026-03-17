@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
   <title>Kim Nordin – CV & Portfolio</title>
 
   <!-- Google Font för Play -->
@@ -90,6 +90,34 @@
       color: #2c3e50;
       text-decoration: none;
     }
+
+    /* Mobilanpassning */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+    border: 5px solid orange;
+  }
+
+  h1 {
+    flex-direction: column;
+    font-size: 22px;
+    padding: 10px;
+  }
+
+  h2, h3 {
+    font-size: 18px;
+    padding: 8px;
+  }
+
+  img {
+    width: 90%;
+  }
+
+  div[style*="display: flex"] {
+    flex-direction: column;
+    gap: 20px;
+  }
+}
   </style>
 </head>
 
@@ -97,9 +125,11 @@
 
   <!-- TITEL -->
   <h1>
-    <span class="symbol">.:</span> MÅNGKUNNIG <span class="symbol"></span>
-    <span class="symbol">.:.</span> ENERGISPRIDARE <span class="symbol">.:.</span>
-    <span class="symbol"></span> ANALYTISK <span class="symbol">:.</span>
+    <span class="symbol">.:</span> MÅNGKUNNIG <span class="symbol">:.</span>
+    <br>
+    <span class="symbol">.:</span> ENERGISPRIDARE <span class="symbol">:.</span>
+    <br>
+    <span class="symbol">.:</span> ANALYTISK <span class="symbol">:.</span>
   </h1>
 
   <!-- FOTO -->
@@ -143,7 +173,7 @@
       <h2><span class="symbol">.:</span> ARBETSLIVSERFARENHET <span class="symbol">:.</span></h2>
       <ul>
         <li><strong>2026:</strong> Praktik - Iris Kraft</li>
-        <li><strong>2026:</strong> Grovstädare - Kundpartner Syd AB</li>
+        <li><strong>2025:</strong> Grovstädare - Kundpartner Syd AB</li>
         <li><strong>2025:</strong> LIA Praktik – Enklakassan</li>
         <li>Servicearbetare – Räddningstjänsten</li>
         <li>Lokalvårdare – Samhall AB</li>
